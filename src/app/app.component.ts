@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Todos';
+  title = 'Create a CRUD App with Angular CLI and TypeScript';
 }
